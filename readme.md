@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samidelucc)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguest/)
 
-## Segundo desafio de Javascript da DIO, O objetivo era criar uma função que receba como parâmetro a quantidade de vitórias e derrotas de um jogador como saldo de Rankeadas, e depois, através do calculo *vitórias - derrotas*, classificar o saldo total de acordo com a tabela abaixo
+## Segundo desafio de Javascript da DIO, o objetivo era criar uma função que receba como parâmetro a quantidade de vitórias e derrotas de um jogador como saldo de Rankeadas, e depois, através do calculo *vitórias - derrotas*, classificar o saldo total de acordo com a tabela abaixo
 
 Vitórias | Classificação
 ---------|-------------
@@ -36,4 +36,4 @@ Este código em JavaScript foi escrito para calcular o saldo de partidas ranquea
 Para fazer isso, ele usa uma função chamada rankeadas, que recebe como entrada o número de vitórias e derrotas. A função calcula a diferença entre esses valores, obtendo o saldo do jogador. Com base nesse saldo, a função determina a classificação do jogador em categorias como Ferro, Bronze, Prata, Ouro, Diamante, Lendário e Imortal.  
 Após definir as vitórias e derrotas, o saldo é calculado subtraindo derrotas de vitórias. Em seguida, a função rankeadas é chamada para determinar a classificação, que é então exibida no console junto com o saldo total. Por exemplo, se um jogador tem 60 vitórias e 15 derrotas, o saldo seria 45, e a classificação resultante seria "Prata", que é exibida no console com uma mensagem informativa.
 
-> Códigos com cálculos de partidas rankeadas são úteis para sistemas de jogos, onde você quer calcular a performance de um jogador com base nas vitórias e derrotas e, então, classificá-lo em diferentes níveis de habilidade.
+> Códigos com cálculos de partidas rankeadas são úteis para sistemas de jogos, onde é possível calcular a performance de um jogador com base nas vitórias e derrotas e, então, classificá-lo em diferentes níveis de habilidade.
